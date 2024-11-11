@@ -1,5 +1,5 @@
+# Hello! My name is Jonathan, and I'm a recent Computer Engineering graduate of Auburn University. 👋
 <!--
-# Hello! I'm Jonathan Leviner, a passionate Computer Engineer 👋
 
 Welcome to my GitHub! I'm currently a [Your Position or Field of Study, e.g., Software Developer, Data Scientist, etc.] working on a mix of academic and personal projects. Feel free to explore my repositories, check out my skills, and see what I'm currently learning.
 
