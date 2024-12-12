@@ -8,7 +8,10 @@ Here are the languages and tools I'm currently working with:
 - **Frameworks**: .NET
 - **Tools**: Git
 
+
 <!--
+
+![traffic](https://komarev.com/ghpvc/?username=jbleviner&color=brightgreen&style=plastic&abbreviated=true)
 
 ## 🚀 About Me
 
