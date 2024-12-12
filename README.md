@@ -1,7 +1,14 @@
-# Hello! My name is Jonathan, and I'm a recent Computer Engineering graduate of Auburn University. 👋
-<!--
+# Hello! My name is Jonathan! 👋
+Welcome to my GitHub! I'm a recent Computer Engineering graduate of Auburn University. Feel free to explore my repositories, check out my skills, and see what I'm currently learning.
 
-Welcome to my GitHub! I'm currently a [Your Position or Field of Study, e.g., Software Developer, Data Scientist, etc.] working on a mix of academic and personal projects. Feel free to explore my repositories, check out my skills, and see what I'm currently learning.
+## About Me
+Here are the languages and tools I'm currently working with:
+
+- **Languages**: C#, C++
+- **Frameworks**: .NET
+- **Tools**: Git
+
+<!--
 
 ## 🚀 About Me
 
